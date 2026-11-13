@@ -6,7 +6,8 @@ This portfolio showcases hands-on projects focused on cybersecurity risk managem
 
 ## Projects
 
-### Project 1 – Cybersecurity Risk Assessment
+### [Project 1 – Cybersecurity Risk Assessment](https://github.com/HarshitaMB-20/Cybersecurity-GRC--Portfolio/tree/main/Averix_Cybersecurity_Risk_Assessment)
+
 **Organization:** Averix Technologies Pvt. Ltd. (Fictional Company)
 
 Conducted a structured cybersecurity risk assessment for a fictional India-based IT company providing a SaaS-based Human Resource Management System (HRMS).
@@ -17,11 +18,12 @@ The project focuses on identifying critical business assets, analyzing threats a
 
 **Frameworks:** ISO/IEC 27001:2022 and NIST Cybersecurity Framework 2.0.
 
-[View Project Details and Report](01-Cybersecurity-Risk-Assessment/README.md)
+[View Full Project Report (PDF)](https://github.com/HarshitaMB-20/Cybersecurity-GRC--Portfolio/blob/main/Averix_Cybersecurity_Risk_Assessment/Averix_Cybersecurity_Risk_Assessment.pdf)
 
 ---
 
-### Project 2 – ISO 27001 ISMS Implementation
+### [Project 2 – ISO 27001 ISMS Implementation](https://github.com/HarshitaMB-20/Cybersecurity-GRC--Portfolio/tree/main/02-ISO-27001-ISMS-Implementation)
+
 **Organization:** Averix Technologies Pvt. Ltd. (Fictional Company)
 
 Developed a proposed Information Security Management System (ISMS) for the same SaaS-based HRMS company, building on the findings of Project 1.
@@ -32,7 +34,7 @@ The project covers defining the ISMS scope, understanding business and security 
 
 **Frameworks:** ISO/IEC 27001:2022 and NIST Cybersecurity Framework 2.0.
 
-[View Project Details and Report](02-ISO-27001-ISMS-Implementation/README.md)
+[View Full Project Report (PDF)](https://github.com/HarshitaMB-20/Cybersecurity-GRC--Portfolio/blob/main/02-ISO-27001-ISMS-Implementation/Averix_ISMS_Implementation_Project.pdf)
 
 ---
 
