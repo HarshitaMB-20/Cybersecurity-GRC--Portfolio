@@ -18,7 +18,7 @@ The project focuses on identifying critical business assets, analyzing threats a
 
 **Frameworks:** ISO/IEC 27001:2022 and NIST Cybersecurity Framework 2.0.
 
-[View Full Project Report (PDF)](https://github.com/HarshitaMB-20/Cybersecurity-GRC--Portfolio/blob/main/Averix_Cybersecurity_Risk_Assessment/Averix_Cybersecurity_Risk_Assessment.pdf)
+[View Full Project Report (PDF)](https://github.com/HarshitaMB-20/Cybersecurity-GRC--Portfolio/tree/main/Averix_Cybersecurity_Risk_Assessment)
 
 ---
 
