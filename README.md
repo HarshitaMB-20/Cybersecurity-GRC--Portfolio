@@ -1,45 +1,48 @@
 # GRC Portfolio
 
----
+Hi! I'm a B.Tech CSE graduate interested in Cybersecurity – Governance, Risk and Compliance (GRC).
 
-Hi, I'm a B.Tech CSE fresher with an interest in *Cybersecurity- Governance, Risk, and Compliance (GRC)*.
-
-I am developing practical skills through hands-on projects focused on cybersecurity risk assessment, security controls, risk treatment, information security governance, and cybersecurity frameworks.
-
----
+This portfolio showcases hands-on projects focused on cybersecurity risk management, information security governance, risk treatment, and security frameworks.
 
 ## Projects
 
-### [Project 1 – Cybersecurity Risk Assessment](Averix_Cybersecurity_Risk_Assessment.pdf)
+### Project 1 – Cybersecurity Risk Assessment
+**Organization:** Averix Technologies Pvt. Ltd. (Fictional Company)
 
-**Organization:** *Averix Technologies Pvt. Ltd.* (Fictional Company)
+Conducted a structured cybersecurity risk assessment for a fictional India-based IT company providing a SaaS-based Human Resource Management System (HRMS).
 
-For this project, I developed a cybersecurity risk assessment for a fictional India-based IT company providing a SaaS-based Human Resource Management System (HRMS).
+The project focuses on identifying critical business assets, analyzing threats and vulnerabilities, evaluating risks using a 5×5 Likelihood and Impact Matrix, and recommending security controls to address identified risks.
 
-The project covers:
+**Key areas:** Asset Identification, Threat and Vulnerability Assessment, Risk Analysis, Risk Register, Risk Prioritization, Risk Treatment.
 
-- Identification of business assets, threats and vulnerabilities.
-- Development of a risk register.
-- Risk evaluation using a *5×5 Likelihood and Impact Matrix*.
-- Risk prioritization and classification.
-- Recommended security controls and risk treatment measures.
-- Mapping to *ISO/IEC 27001:2022* and *NIST Cybersecurity Framework (CSF) 2.0*.
+**Frameworks:** ISO/IEC 27001:2022 and NIST Cybersecurity Framework 2.0.
 
-**Skills Demonstrated:** Cybersecurity Risk Assessment, Asset Identification, Threat Identification, Vulnerability Assessment, Risk Analysis, Risk Register Development, Risk Treatment, ISO/IEC 27001:2022, NIST CSF 2.0.
-
-**Project Report:** [View Full PDF Report](Averix_Cybersecurity_Risk_Assessment.pdf)
-
-*Note: This is a fictional portfolio project based on defined assumptions. It does not represent an actual organizational audit or technical security testing.*
+[View Project Details and Report](01-Cybersecurity-Risk-Assessment/README.md)
 
 ---
 
-## Frameworks
+### Project 2 – ISO 27001 ISMS Implementation
+**Organization:** Averix Technologies Pvt. Ltd. (Fictional Company)
+
+Developed a proposed Information Security Management System (ISMS) for the same SaaS-based HRMS company, building on the findings of Project 1.
+
+The project covers defining the ISMS scope, understanding business and security requirements, establishing information security policies and responsibilities, assessing and treating risks, preparing a Statement of Applicability (SoA), and developing an implementation and monitoring plan.
+
+**Key areas:** ISMS Development, ISO 27001 Requirements, Risk Treatment, Statement of Applicability, Security Governance, Internal Audit Planning, Continual Improvement.
+
+**Frameworks:** ISO/IEC 27001:2022 and NIST Cybersecurity Framework 2.0.
+
+[View Project Details and Report](02-ISO-27001-ISMS-Implementation/README.md)
+
+---
+
+## Frameworks and Standards
 
 - [ISO/IEC 27001:2022](https://www.iso.org/standard/27001)
 - [NIST Cybersecurity Framework 2.0](https://www.nist.gov/cyberframework)
 
----
-
 ## Contact
 
 - [GitHub Profile](https://github.com/HarshitaMB-20)
+
+*Both projects are fictional portfolio exercises based on defined assumptions. They do not represent actual organizational audits, implemented security controls, or ISO 27001 certification.*
