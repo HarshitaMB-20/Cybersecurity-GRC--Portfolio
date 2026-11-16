@@ -43,6 +43,26 @@ The project covers defining the ISMS scope, understanding business and security 
 - [ISO/IEC 27001:2022](https://www.iso.org/standard/27001)
 - [NIST Cybersecurity Framework 2.0](https://www.nist.gov/cyberframework)
 
+---
+
+### Project 3: GRC Risk Register and Dashboard
+
+An ongoing Excel-based project focused on cybersecurity risk assessment, risk tracking, and dashboard development using a fictional IT company scenario.
+
+**Key Areas:**
+- Cybersecurity Risk Register
+- 5×5 Risk Assessment Matrix
+- Risk Scoring and Classification
+- Excel Dashboard and Data Visualization
+
+**Project Files:**
+- [View Project Details](https://github.com/HarshitaMB-20/Cybersecurity-GRC--Portfolio/tree/main/03-GRC-Risk-Register-and-Dashboard)
+- [View Excel Workbook](https://github.com/HarshitaMB-20/Cybersecurity-GRC--Portfolio/blob/main/03-GRC-Risk-Register-and-Dashboard/GRC_Risk_Register_and_Dashboard.xlsx)
+
+**Status:** Work in Progress
+
+---
+
 ## Contact
 
 - [GitHub Profile](https://github.com/HarshitaMB-20)
