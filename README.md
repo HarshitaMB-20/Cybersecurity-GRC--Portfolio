@@ -45,7 +45,7 @@ The project covers defining the ISMS scope, understanding business and security 
 
 ---
 
-### [Project 3 – GRC Risk Register and Dashboard](https://github.com/HarshitaMB-20/Cybersecurity-GRC--Portfolio/tree/main/03-GRC-Risk-Register-and-Dashboard)
+### [Project 3 – GRC Risk Register and Dashboard](https://github.com/HarshitaMB-20/Cybersecurity-GRC--Portfolio/tree/main/GRC-Risk-Register-and-Dashboard)
 
 An ongoing Excel-based project focused on cybersecurity risk assessment, risk tracking, and dashboard development using a fictional IT company scenario.
 
