@@ -63,7 +63,7 @@ An ongoing Excel-based project focused on cybersecurity risk assessment, risk tr
 
 ---
 
-## Project 4 – Banking Third-Party Risk Management (TPRM)
+##[Project 2 – Banking Third-Party Risk Management (TPRM)](Documentation/Meridian_Bank_TPRM_Project_Documentation.pdf)
 
 **Organization:** Meridian Bank Ltd. (Fictional Banking Institution)
 
