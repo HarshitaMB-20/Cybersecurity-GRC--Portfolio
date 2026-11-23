@@ -56,7 +56,7 @@ An ongoing Excel-based project focused on cybersecurity risk assessment, risk tr
 - Excel Dashboard and Data Visualization
 
 **Project Files:**
-- [View Project Details](https://github.com/HarshitaMB-20/Cybersecurity-GRC--Portfolio/blob/main/GRC-Risk-Register-and-Dashboard/Risk%20Register.xlsx)
+- [View Project Details](https://github.com/HarshitaMB-20/Cybersecurity-GRC--Portfolio/tree/main/GRC-Risk-Register-and-Dashboard)
 - [View Excel Workbook](https://github.com/HarshitaMB-20/Cybersecurity-GRC--Portfolio/blob/main/03-GRC-Risk-Register-and-Dashboard/GRC_Risk_Register_and_Dashboard.xlsx)
 
 **Status:** Work in Progress
