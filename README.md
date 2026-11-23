@@ -63,6 +63,26 @@ An ongoing Excel-based project focused on cybersecurity risk assessment, risk tr
 
 ---
 
+## Project 4 – Banking Third-Party Risk Management (TPRM)
+
+**Organization:** Meridian Bank Ltd. (Fictional Banking Institution)
+
+Developed a structured Third-Party Risk Management (TPRM) project for a fictional banking institution to assess and manage risks associated with external vendors and service providers.
+
+The project focuses on maintaining a vendor inventory, assessing inherent and residual risks, evaluating information security controls, identifying control gaps, maintaining a risk register, and tracking remediation actions.
+
+**Key areas:** Vendor Risk Assessment, Inherent and Residual Risk Analysis, Control Assessment, Risk Register, Risk Prioritization, Remediation Tracking.
+
+**Tools:** Microsoft Excel and MySQL.
+
+**Domain:** Banking and Financial Services – Governance, Risk and Compliance (GRC).
+
+**Project scope:** 10 vendors inventoried, 6 vendors assessed in detail, 30 simulated control assessment records, 6 risks documented and 6 remediation actions tracked.
+
+[View Full Project Report (PDF)](Documentation/Meridian_Bank_TPRM_Project_Documentation.pdf)
+
+----
+
 ## Contact
 
 - [GitHub Profile](https://github.com/HarshitaMB-20)
