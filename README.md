@@ -89,8 +89,8 @@ The project covers vendor inventory management, inherent and residual risk asses
 **Project Files:**
 
 - [View Project Details](https://github.com/HarshitaMB-20/Cybersecurity-GRC--Portfolio/blob/main/Banking-TPRM-Project/TPRM_Project_Documentation.pdf)
-- [View Excel Workbook](Excel/Meridian_Bank_TPRM_Project.xlsx)
-- [View SQL Scripts](SQL/TPRM_Banking.sql)
+- [View Excel Workbook](https://github.com/HarshitaMB-20/Cybersecurity-GRC--Portfolio/blob/main/Banking-TPRM-Project/Meridian_Bank_TPRM_Project.xlsx)
+- [View SQL Scripts](https://github.com/HarshitaMB-20/Cybersecurity-GRC--Portfolio/blob/main/Banking-TPRM-Project/TPRM.sql)
 
 **Status:** Completed
 
