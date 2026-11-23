@@ -63,23 +63,37 @@ An ongoing Excel-based project focused on cybersecurity risk assessment, risk tr
 
 ---
 
-##[Project 2 – Banking Third-Party Risk Management (TPRM)](Documentation/Meridian_Bank_TPRM_Project_Documentation.pdf)
+---
+
+## [Project 4 – Banking Third-Party Risk Management (TPRM)](Documentation/Meridian_Bank_TPRM_Project_Documentation.pdf)
 
 **Organization:** Meridian Bank Ltd. (Fictional Banking Institution)
 
-Developed a structured Third-Party Risk Management (TPRM) project for a fictional banking institution to assess and manage risks associated with external vendors and service providers.
+A practical Excel and SQL-based project focused on third-party vendor risk assessment and risk management in a fictional banking environment.
 
-The project focuses on maintaining a vendor inventory, assessing inherent and residual risks, evaluating information security controls, identifying control gaps, maintaining a risk register, and tracking remediation actions.
+The project covers vendor inventory management, inherent and residual risk assessment, information security control evaluation, risk identification, and remediation tracking.
 
-**Key areas:** Vendor Risk Assessment, Inherent and Residual Risk Analysis, Control Assessment, Risk Register, Risk Prioritization, Remediation Tracking.
+**Key Areas:**
 
-**Tools:** Microsoft Excel and MySQL.
+- Third-Party Vendor Inventory
+- Inherent and Residual Risk Assessment
+- Information Security Control Assessment
+- Risk Register and Risk Prioritization
+- Remediation Tracking
 
-**Domain:** Banking and Financial Services – Governance, Risk and Compliance (GRC).
+**Tools Used:**
 
-**Project scope:** 10 vendors inventoried, 6 vendors assessed in detail, 30 simulated control assessment records, 6 risks documented and 6 remediation actions tracked.
+- Microsoft Excel
+- MySQL
 
-[View Full Project Report (PDF)](Documentation/Meridian_Bank_TPRM_Project_Documentation.pdf)
+**Project Files:**
+
+- [View Project Details](Documentation/Meridian_Bank_TPRM_Project_Documentation.pdf)
+- [View Excel Workbook](Excel/Meridian_Bank_TPRM_Project.xlsx)
+- [View SQL Scripts](SQL/TPRM_Banking.sql)
+
+**Status:** Completed
+
 
 ----
 
